@@ -8,3 +8,14 @@ Download ZIP
 
 Po rozpakowaniu archiwów pliki należy przenieść/skopiować do folderu MobMuPlat na telefonie/tablecie.
 Program MobMuPlat należy zainstalować z AppStore lub GooglePlay
+
+
+przydatne linki:
+
+pd download: http://msp.ucsd.edu/software.html
+
+MobMuPlat: http://danieliglesia.com/mobmuplat/ Edytor jest w MobMuPlat Development Package, w sekcji Setup
+
+Automatonism: https://www.automatonism.com/the-software/
+
+Purr Data: https://github.com/agraef/purr-data/releases
