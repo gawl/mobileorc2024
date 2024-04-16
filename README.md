@@ -18,4 +18,4 @@ MobMuPlat: http://danieliglesia.com/mobmuplat/ Edytor jest w MobMuPlat Developme
 
 Automatonism: https://www.automatonism.com/the-software/
 
-Purr Data: https://github.com/agraef/purr-data/releases
+MobMuPlatEditor: https://github.com/monkeyswarm/MobMuPlatEditor
